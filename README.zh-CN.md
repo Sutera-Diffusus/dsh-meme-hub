@@ -24,6 +24,10 @@
 
 [**china-ai-arbitrage.xyz · DSH 整活 24 小时（配套深度长文）**](https://www.china-ai-arbitrage.xyz/blog/dsh-meme-hub-24h)
 
+不爱读长文？28 个精选项目做成了一个页面，带截图、分类和一键安装命令 👉
+
+[**Install DeepSeek Harness (dsh) Plugins — 28 Community Picks**](https://www.china-ai-arbitrage.xyz/dsh-hub)
+
 ---
 
 ## Contents
