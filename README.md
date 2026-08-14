@@ -1,4 +1,6 @@
-# 🐋 DSH Meme Hub · DeepSeek Harness 社区整活导航
+# 🐋 DSH Meme Hub
+
+**DeepSeek Harness (dsh) 社区整活插件精选导航** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > **Everything is a Plugin —— 所以，万物皆可整活。**
 
@@ -6,7 +8,7 @@
 
 贪玩蓝鲸、QQ2006、财神鲸抽奖、像素鲸鱼、深海女仆工坊……整活浓度梦回 2005 年中文互联网。
 
-本仓库是 **DSH 社区玩梗项目的导航站 + 存档站**：每个项目一行介绍 + 一张精选截图（star 数为收录时快照）。我们不写代码、不教安装，只负责把你快速带到最好笑的地方。
+这是一个 [Awesome List](https://github.com/sindresorhus/awesome) 风格的导航仓库：每个项目一行介绍 + 一张精选截图（star 数为收录时快照）。不写代码、不教安装，只负责把你快速带到最好笑的地方。
 
 ---
 
@@ -15,6 +17,19 @@
 这 24 小时的整活狂欢背后，DSH 的插件架构到底长什么样？社区为什么一点就着？👉
 
 [**china-ai-arbitrage.xyz · DSH 整活 24 小时（配套深度长文）**](https://www.china-ai-arbitrage.xyz/blog/dsh-meme-hub-24h)
+
+---
+
+## Contents
+
+- [🎭 抽象整活区](#抽象整活区)
+- [🎨 换皮区](#换皮区)
+- [🐳 赛博宠物区](#赛博宠物区)
+- [🎮 摸鱼区](#摸鱼区)
+- [🛠️ 认真干活区](#认真干活区)
+- [📝 文字选手区](#文字选手区)
+- [🚀 收录方式](#收录方式)
+- [©️ 版权说明](#版权说明)
 
 ---
 
