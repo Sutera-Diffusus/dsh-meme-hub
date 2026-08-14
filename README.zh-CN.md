@@ -144,7 +144,7 @@
   ![dsh-cc-tui Claude Code 风格终端界面](showcase/dsh-cc-tui.png)
   *蓝白上下文进度条 + TPS 仪表，纯插件挂载，零核心改动*
 
-- 🖥️ **[dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui)** ★78 —— 终端 UI 另一选择：渲染核心从天枢 Tianshu-Tui 演进而来，UI 纯展示层，所有状态都来自会话事件流
+- 🖥️ **[dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui)** ★132 —— 在官方 TUI 扩展之上做 harness 级定制：TDD 驱动的 agent 工作流、证据门交付、图像/视觉桥接、语义代码检索。渲染核心演化自 Tianshu-Tui，纯表现层设计
 
   ![dsh-tianshu-tui 终端 UI 截图](showcase/dsh-tianshu-tui.jpg)
   *只看不碰：agent 该干嘛干嘛，界面负责好看*

@@ -144,7 +144,7 @@ Prefer browsing over reading? All 28 picks live on one page with screenshots, ca
   ![dsh-cc-tui Claude Code-style terminal interface](showcase/dsh-cc-tui.png)
   *Blue-and-white context progress bar + TPS gauge; mounts as a pure plugin, zero core changes*
 
-- 🖥️ **[dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui)** ★78 — The other terminal UI option: rendering core evolved from Tianshu-Tui; the UI is a pure display layer — all state flows from session events
+- 🖥️ **[dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui)** ★132 — Harness-level customization on top of the official TUI extension: TDD-driven agent workflows, evidence-gate delivery, image/vision bridging, and semantic code retrieval. Rendering core evolved from Tianshu-Tui with a pure presentation layer
 
   ![dsh-tianshu-tui terminal UI screenshot](showcase/dsh-tianshu-tui.jpg)
   *Look, don't touch: the agent does its thing, the interface looks good doing nothing*
