@@ -4,6 +4,10 @@
 
 [English](README.md) | 简体中文
 
+<p align="center">
+  <img src="showcase/hero-zh.png" alt="一切皆插件——所以，万物皆可整活" width="640">
+</p>
+
 > **Everything is a Plugin —— 所以，万物皆可整活。**
 
 2026 年 8 月 13 日，DeepSeek 开源了 agent harness [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)，口号简单粗暴：**Everything is a Plugin**。24 小时，**45,000+ stars**。但更精彩的在后面：社区一夜之间悟了——既然万物皆插件，那广告是插件、皮肤是插件、桌宠是插件、连 Excel 都是插件。

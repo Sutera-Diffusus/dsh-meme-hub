@@ -4,6 +4,10 @@
 
 English | [简体中文](README.zh-CN.md)
 
+<p align="center">
+  <img src="showcase/hero-en.png" alt="Everything is a Plugin — so go tinker with anything." width="640">
+</p>
+
 > **Everything is a Plugin — so go tinker with anything.**
 
 On August 13, 2026, DeepSeek open-sourced its agent harness [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) with a brutally simple slogan: **Everything is a Plugin**. 45,000+ stars in 24 hours. But the real show started afterwards: the community got the joke overnight — if everything is a plugin, then ads are plugins, skins are plugins, desktop pets are plugins, and yes, **even Excel is a plugin**.
