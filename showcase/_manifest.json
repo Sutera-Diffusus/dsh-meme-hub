@@ -1,0 +1,198 @@
+[
+  {
+    "name": "DSH-better-sidebar",
+    "readme_chars": 9371,
+    "img_count": 0,
+    "hero": null,
+    "size_mb": 1.48
+  },
+  {
+    "name": "deepseek-harness-themes",
+    "readme_chars": 2867,
+    "img_count": 0,
+    "hero": null,
+    "size_mb": 0.26
+  },
+  {
+    "name": "dsh-ads",
+    "readme_chars": 2201,
+    "img_count": 29,
+    "hero": "assets/en/posters/poster-fail-game.webp",
+    "size_mb": 7.76
+  },
+  {
+    "name": "dsh-balance-meter",
+    "readme_chars": 3067,
+    "img_count": 0,
+    "hero": null,
+    "size_mb": 0.2
+  },
+  {
+    "name": "dsh-cc-tui",
+    "readme_chars": 12302,
+    "img_count": 4,
+    "hero": "screenshots/splash.png",
+    "size_mb": 6.11
+  },
+  {
+    "name": "dsh-deep-whale",
+    "readme_chars": 1119,
+    "img_count": 13,
+    "hero": "maid-atelier/preview/light.webp",
+    "size_mb": 6.69
+  },
+  {
+    "name": "dsh-deepcel",
+    "readme_chars": 882,
+    "img_count": 2,
+    "hero": "deepcel/preview/light.webp",
+    "size_mb": 0.4
+  },
+  {
+    "name": "dsh-focus-chat",
+    "readme_chars": 4756,
+    "img_count": 2,
+    "hero": "screenshots/before.png",
+    "size_mb": 1.37
+  },
+  {
+    "name": "dsh-gomoku",
+    "readme_chars": 6048,
+    "img_count": 1,
+    "hero": "assets/screenshot.png",
+    "size_mb": 1.08
+  },
+  {
+    "name": "dsh-group-photo",
+    "readme_chars": 4310,
+    "img_count": 5,
+    "hero": "public/bg.jpg",
+    "size_mb": 2.12
+  },
+  {
+    "name": "dsh-milestone",
+    "readme_chars": 3703,
+    "img_count": 1,
+    "hero": "assets/logo.svg",
+    "size_mb": 0.43
+  },
+  {
+    "name": "dsh-minigames",
+    "readme_chars": 13307,
+    "img_count": 0,
+    "hero": null,
+    "size_mb": 1.2
+  },
+  {
+    "name": "dsh-pet",
+    "readme_chars": 4438,
+    "img_count": 22,
+    "hero": "docs/contact-sheet.png",
+    "size_mb": 0.88
+  },
+  {
+    "name": "dsh-plugin-background",
+    "readme_chars": 2228,
+    "img_count": 1,
+    "hero": "docs/settings-section.png",
+    "size_mb": 0.22
+  },
+  {
+    "name": "dsh-plugin-pet-rs",
+    "readme_chars": 4704,
+    "img_count": 5,
+    "hero": "assets/tray-icon.png",
+    "size_mb": 0.45
+  },
+  {
+    "name": "dsh-qq2006",
+    "readme_chars": 2562,
+    "img_count": 357,
+    "hero": "assets/qq2006/img/im/show3.gif",
+    "size_mb": 1.93
+  },
+  {
+    "name": "dsh-skin",
+    "readme_chars": 6142,
+    "img_count": 0,
+    "hero": null,
+    "size_mb": 0.04
+  },
+  {
+    "name": "dsh-spotlight",
+    "readme_chars": 2612,
+    "img_count": 0,
+    "hero": null,
+    "size_mb": 0.16
+  },
+  {
+    "name": "dsh-sticky-note",
+    "readme_chars": 902,
+    "img_count": 1,
+    "hero": "assets/screenshot.png",
+    "size_mb": 0.15
+  },
+  {
+    "name": "dsh-tianshu-tui",
+    "readme_chars": 11444,
+    "img_count": 1,
+    "hero": "docs/tui-screenshot.jpg",
+    "size_mb": 2.94
+  },
+  {
+    "name": "dsh-ui-whale",
+    "readme_chars": 7674,
+    "img_count": 7,
+    "hero": "docs/dsh-ui-whale-demo.gif",
+    "size_mb": 0.99
+  },
+  {
+    "name": "dsh-visualize",
+    "readme_chars": 2308,
+    "img_count": 2,
+    "hero": "assets/demo.webp",
+    "size_mb": 1.23
+  },
+  {
+    "name": "dsh-web-archive",
+    "readme_chars": 4611,
+    "img_count": 0,
+    "hero": null,
+    "size_mb": 0.05
+  },
+  {
+    "name": "dsh-web-attention-badge",
+    "readme_chars": 1515,
+    "img_count": 0,
+    "hero": null,
+    "size_mb": 0.02
+  },
+  {
+    "name": "dsh-web-review",
+    "readme_chars": 1884,
+    "img_count": 3,
+    "hero": "docs/assets/web-review-demo.gif",
+    "size_mb": 7.32
+  },
+  {
+    "name": "dsh-web-ui",
+    "readme_chars": 5893,
+    "img_count": 21,
+    "hero": "docs/dsh-web-ui-banner.png",
+    "size_mb": 7.15
+  },
+  {
+    "name": "ui-status-label",
+    "readme_chars": 3223,
+    "img_count": 0,
+    "hero": null,
+    "size_mb": 0.2
+  },
+  {
+    "name": "whale-girl",
+    "readme_chars": 3936,
+    "img_count": 31,
+    "hero": "docs/preview/idle.gif",
+    "size_mb": 3.58
+  }
+]
