@@ -1,192 +1,194 @@
 # 🐋 DSH Meme Hub
 
-**DeepSeek Harness (dsh) 社区整活插件精选导航** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+**A curated tour of the DeepSeek Harness (dsh) community's wildest plugins** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> **Everything is a Plugin —— 所以，万物皆可整活。**
+English | [简体中文](README.zh-CN.md)
 
-2026 年 8 月 13 日，DeepSeek 开源了 agent harness [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)，口号简单粗暴：**Everything is a Plugin**。24 小时，**45,000+ stars**。但更精彩的在后面：社区一夜之间悟了——既然万物皆插件，那广告是插件、皮肤是插件、桌宠是插件、连 Excel 都是插件。
+> **Everything is a Plugin — so go tinker with anything.**
 
-贪玩蓝鲸、QQ2006、财神鲸抽奖、像素鲸鱼、深海女仆工坊……整活浓度梦回 2005 年中文互联网。
+On August 13, 2026, DeepSeek open-sourced its agent harness [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) with a brutally simple slogan: **Everything is a Plugin**. 45,000+ stars in 24 hours. But the real show started afterwards: the community got the joke overnight — if everything is a plugin, then ads are plugins, skins are plugins, desktop pets are plugins, and yes, **even Excel is a plugin**.
 
-这是一个 [Awesome List](https://github.com/sindresorhus/awesome) 风格的导航仓库：每个项目一行介绍 + 一张精选截图（star 数为收录时快照）。不写代码、不教安装，只负责把你快速带到最好笑的地方。
+Spammy web-game ads, QQ 2006, a God-of-Wealth jackpot wheel, hand-drawn pixel whales, a Deep-Sea Maid Atelier… meme density straight out of the 2005 Chinese internet.
+
+This is an [Awesome List](https://github.com/sindresorhus/awesome)-style navigation repo: one line per project + one hand-picked screenshot (star counts are snapshots from the day of listing). No code, no install tutorials — just the fastest route to the funniest corners.
 
 ---
 
-## 📖 配套深度长文
+## 📖 The Companion Deep Dive
 
-这 24 小时的整活狂欢背后，DSH 的插件架构到底长什么样？社区为什么一点就着？👉
+What does the plugin architecture behind this 24-hour meme carnival actually look like? And why did this community ignite so fast? 👉
 
-[**china-ai-arbitrage.xyz · DSH 整活 24 小时（配套深度长文）**](https://www.china-ai-arbitrage.xyz/blog/dsh-meme-hub-24h)
+[**china-ai-arbitrage.xyz · DSH's First 24 Hours: A Meme Census (companion long-read)**](https://www.china-ai-arbitrage.xyz/blog/dsh-meme-hub-24h)
 
 ---
 
 ## Contents
 
-- [🎭 抽象整活区](#抽象整活区)
-- [🎨 换皮区](#换皮区)
-- [🐳 赛博宠物区](#赛博宠物区)
-- [🎮 摸鱼区](#摸鱼区)
-- [🛠️ 认真干活区](#认真干活区)
-- [📝 文字选手区](#文字选手区)
-- [🚀 收录方式](#收录方式)
-- [©️ 版权说明](#版权说明)
+- [Peak Absurdity](#peak-absurdity)
+- [Skins and Themes](#skins-and-themes)
+- [Cyber Pets](#cyber-pets)
+- [The Slack-Off Zone](#the-slack-off-zone)
+- [Actually Useful](#actually-useful)
+- [The No-Screenshot Club](#the-no-screenshot-club)
+- [How to Get Listed](#how-to-get-listed)
+- [Copyright](#copyright)
 
 ---
 
-## 🎭 抽象整活区
+## Peak Absurdity
 
-*整活浓度最高，谨慎进入。广告 / 恶搞 / 怀旧，沾一样就算。*
+*Highest meme concentration. Enter at your own risk. Ads, parodies, nostalgia — if it touches one of these, it belongs here.*
 
-- 📺 **[dsh-ads](https://github.com/Nagi-ovo/dsh-ads)** ★123 —— 是兄弟就来蹬我！把 DSH 变成 2005 年中文门户网站：贪玩蓝鲸、财神鲸抽奖、假杀毒、角落弹窗全套，关闭叉的热区还比看起来小得多
+- 📺 **[dsh-ads](https://github.com/Nagi-ovo/dsh-ads)** ★123 — "Bro, come kick me!" Turns DSH into a 2005-era Chinese web portal: knockoff web-game banners, a God-of-Wealth jackpot wheel, fake antivirus popups, corner ads — and a close button whose hitbox is smaller than it looks
 
-  ![dsh-ads 实机：两侧广告栏、对话内信息流广告与贪玩蓝鲸海报](showcase/dsh-ads.webp)
-  *侧栏、对话、角落全塞满——但模型一直在后台干活，只是回答前得先看广告*
+  ![dsh-ads in action: sidebar ads, in-chat feed ads and the Wanjia Blue Whale banner](showcase/dsh-ads.webp)
+  *Sidebar, chat, corners — all stuffed. The model keeps working in the background; your answers just have to sit through the ads first*
 
-  ![贪玩蓝鲸假游戏海报动画](showcase/dsh-ads-bluewhale.gif)
-  *这海报你熟不熟悉？是兄弟就来蹬我*
+  ![Animated fake-game poster: Wanjia Blue Whale](showcase/dsh-ads-bluewhale.gif)
+  *Recognize the format? Bro, come kick me*
 
-  ![V4 Pro 抽奖广告：财神鲸转盘与四道解锁进度条](showcase/dsh-ads-reward.png)
-  *每轮一抽、四道进度条解锁，广告是假的，抽到 V4 Pro 的希望也是真的渺茫*
+  ![V4 Pro jackpot ad: God-of-Wealth whale wheel with four unlock progress bars](showcase/dsh-ads-reward.png)
+  *One spin per turn, four progress bars to unlock. The ads are fake — your odds of winning V4 Pro are genuinely slim too*
 
-- 📸 **[dsh-group-photo](https://github.com/SenmuuuuW/dsh-group-photo)** ★12 —— DSH 内测收官之夜的拍立得合影墙：GitHub 零权限登录 + 冻结白名单校验，入镜一次，常驻墙上
+- 📸 **[dsh-group-photo](https://github.com/SenmuuuuW/dsh-group-photo)** ★12 — The Polaroid wall from DSH beta's closing night: GitHub OAuth with zero scopes + a frozen whitelist. Pose once, stay on the wall forever
 
-  ![DSH 内测收官拍立得合影墙](showcase/dsh-group-photo.jpg)
-  *内测最后一晚的纪念作品：每人一张拍立得，附一句留言*
+  ![DSH beta closing-night Polaroid wall](showcase/dsh-group-photo.jpg)
+  *One Polaroid per person, one parting note each — the last night of the beta*
 
-- 🐧 **[dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006)** ★3 —— 把 DSH Web UI 完整改造成 QQ2006 客户端：357 份腾讯原版素材，换肤、音效、登录窗全真实，1561 个测试全绿
+- 🐧 **[dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006)** ★3 — DSH's web UI fully remodeled into a QQ 2006 client: 357 period-authentic assets, working skins, sound effects and login dialogs — with 1,561 tests all green
 
-  ![dsh-qq2006 皮肤实机动画](showcase/dsh-qq2006.gif)
-  *一秒钟梦回 2006——你的童年 DNA 动了吗*
+  ![dsh-qq2006 skin in action](showcase/dsh-qq2006.gif)
+  *One second and you're back in 2006. Childhood DNA, activate*
 
-- 📗 **[dsh-deepcel](https://github.com/Small-tailqwq/dsh-deepcel)** ★3 —— 把 DSH 变成 Deepcel 工作簿：会话、工具、设置全部重构成可交互单元格，模型这次是真的在填表
+- 📗 **[dsh-deepcel](https://github.com/Small-tailqwq/dsh-deepcel)** ★3 — DSH rebuilt as a spreadsheet: sessions, tools and settings all reconstructed as interactive cells. The model is literally filling out a form this time
 
-  ![Deepcel 皮肤：DSH 界面变成 Excel 工作表](showcase/dsh-deepcel.webp)
-  *亮色暗色双模式，单元格交互拉满——老板看了直呼内行*
-
----
-
-## 🎨 换皮区
-
-*皮肤主题：不是所有整活都要抽象，也有人只想让鲸鱼娘好看一点。*
-
-- 🎀 **[dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)** ★141 —— 鲸鱼娘皮肤系列「深海女仆工坊 maid-atelier」：双女仆看店、深海蓝蕾丝界面 + Q 版侧栏，CC BY-NC-SA 4.0
-
-  ![深海女仆工坊 maid-atelier 皮肤预览](showcase/dsh-deep-whale.webp)
-  *亮暗双模式，蕾丝边深海蓝——鲸鱼娘的排面*
-
-- 🖼️ **[dsh-plugin-background](https://github.com/gameswu/dsh-plugin-background)** ★3 —— VSCode background 插件的 DSH 版：对话区 / 轨迹区 / 侧边栏 / 设置页四区域各自配背景，支持 GIF 与静音视频轮播
-
-  ![dsh-plugin-background 背景编辑器设置界面](showcase/dsh-plugin-background.png)
-  *每张图独立配置透明度、模糊和轮播，切图还带交叉淡入*
+  ![Deepcel skin: the DSH interface as an Excel worksheet](showcase/dsh-deepcel.webp)
+  *Light and dark modes, full cell interactions — your boss would approve*
 
 ---
 
-## 🐳 赛博宠物区
+## Skins and Themes
 
-*你写你的代码，我养我的鲸。鲸鱼娘形态各异，有的表情比你还丰富。*
+*Not every meme has to be absurd. Some people just want the whale girl to look nice.*
 
-- 🐋 **[whale-girl](https://github.com/vlln/whale-girl)** ★28 —— QQ 宠物形态的鲸鱼娘：可拖拽、投喂、玩耍，完成任务攒资历、升称号、存回忆；任务失败还会失落
+- 🎀 **[dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)** ★141 — Whale-girl skin series "Deep-Sea Maid Atelier" (maid-atelier): two maids tending the shop, deep-sea-blue lace UI + chibi sidebar, CC BY-NC-SA 4.0
 
-  ![whale-girl 桌面宠物待机动画](showcase/whale-girl.gif)
-  *15 种状态全套：眨眼、散步、打盹、欢呼、受惊——她真的在陪你上班*
+  ![Deep-Sea Maid Atelier skin preview](showcase/dsh-deep-whale.webp)
+  *Light and dark modes, lace-trimmed deep-sea blue — the whale girl deserves nothing less*
 
-- 🐳 **[dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale)** ★16 —— 会话标题栏常驻一只全手绘像素鲸鱼：眨眼、摆尾、思考流动画、回合完成喷水、点击冒爱心，零核心改动
+- 🖼️ **[dsh-plugin-background](https://github.com/gameswu/dsh-plugin-background)** ★3 — The DSH port of VSCode's background extension: independent backgrounds for chat / trace / sidebar / settings, with GIF and muted-video rotation
 
-  ![dsh-ui-whale 手绘像素鲸鱼演示](showcase/dsh-ui-whale.gif)
-  *空闲 10 秒还会打瞌睡，尾巴一帧一帧摆*
-
-- 💻 **[dsh-pet](https://github.com/FlytoMAYDAY80/dsh-pet)** ★1 —— macOS 有声桌宠小鲸鱼：悬浮窗常驻置顶、跨全屏可见，不打开 DSH 也能实时感知会话状态
-
-  ![dsh-pet 桌面鲸鱼宠物状态合集](showcase/dsh-pet.png)
-  *会话在跑、等你审批、任务做完——余光即得，还带声音*
-
-- 🦀 **[dsh-plugin-pet-rs](https://github.com/HuanLinOTO/dsh-plugin-pet-rs)** ★1 —— 同一只鲸鱼的 Rust 重写：从约 100MB 干到目标 10MB 以内，Windows / macOS / Linux 三端通吃
-
-  ![dsh-plugin-pet-rs Rust 版桌宠与托盘图标](showcase/dsh-plugin-pet-rs.png)
-  *5 态像素鲸鱼 + 状态气泡；作者 CI 额度跑不起了，请自行构建*
+  ![dsh-plugin-background settings editor](showcase/dsh-plugin-background.png)
+  *Per-image opacity, blur and rotation; crossfade transitions included*
 
 ---
 
-## 🎮 摸鱼区
+## Cyber Pets
 
-*等模型回复的时间最难熬，于是有人动手了。*
+*You write your code, I raise my whale. They come in many forms — some with more facial expressions than you.*
 
-- ♟️ **[dsh-gomoku](https://github.com/omdsh-dev/dsh-gomoku)** ★6 —— 在 DSH 侧边栏和 AI 杀一盘 15×15 五子棋：没有任何搜索算法，每步都是纯 LLM 推理；双 AI 对战还能围观两个模型互相厮杀
+- 🐋 **[whale-girl](https://github.com/vlln/whale-girl)** ★28 — A whale girl in full QQ-Pet form: draggable, feedable, playable with. Finished tasks rack up seniority, titles and memories — and she sulks when one fails
 
-  ![dsh-gomoku 五子棋对局界面](showcase/dsh-gomoku.png)
-  *黑白双方的模型和思考档位可以分开调教，棋盘随手开关，摸鱼正事两不误*
+  ![whale-girl desktop pet idle animation](showcase/whale-girl.gif)
+  *15 states: blinking, wandering, napping, cheering, startled — she really is working alongside you*
 
-> 真正的摸鱼神器 **[dsh-minigames](https://github.com/lhh010/dsh-minigames)** ★7（18 款离线小游戏）因为 README 没放图，被安排在了下面的文字选手区。
+- 🐳 **[dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale)** ★16 — A fully hand-drawn pixel whale living in the session title bar: blinking, tail swishing, thinking animation, a water spout when a turn finishes, hearts when you click her — zero core modifications
 
----
+  ![dsh-ui-whale hand-drawn pixel whale demo](showcase/dsh-ui-whale.gif)
+  *Dozes off after 10 idle seconds, tail swishing frame by frame*
 
-## 🛠️ 认真干活区
+- 💻 **[dsh-pet](https://github.com/FlytoMAYDAY80/dsh-pet)** ★1 — A little whale desktop pet for macOS, with sound: always-on-top floating window, visible across fullscreen apps, senses session state even when DSH isn't open
 
-*玩梗归玩梗，这些项目是真的能干活。*
+  ![dsh-pet desktop whale pet state collection](showcase/dsh-pet.png)
+  *Running, awaiting approval, task done — peripheral vision is enough, and it comes with sound*
 
-- 🏠 **[dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ★580 —— DSH Web UI 插件与皮肤大集合：任务看板、Git 图谱、右侧面板、移动端远程、鲸鱼娘宠物、实时令牌统计、皮肤中心，可单装也可一次装齐
+- 🦀 **[dsh-plugin-pet-rs](https://github.com/HuanLinOTO/dsh-plugin-pet-rs)** ★1 — The same whale, rewritten in Rust: from ~100MB down to a sub-10MB target, covering Windows / macOS / Linux
 
-  ![dsh-web-ui 主界面](showcase/dsh-web-ui.png)
-  *任务看板支持 cron 定时执行，手机扫码就能远程接管工作区*
-
-- ⌨️ **[dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui)** ★252 —— 官方还没出 TUI？社区先造了一个：Claude Code 风格全屏终端，像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 时间回溯，被官方公众号收录
-
-  ![dsh-cc-tui Claude Code 风格终端界面](showcase/dsh-cc-tui.png)
-  *蓝白上下文进度条 + TPS 仪表，纯插件挂载，零核心改动*
-
-- 🖥️ **[dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui)** ★78 —— 终端 UI 另一选择：渲染核心从天枢 Tianshu-Tui 演进而来，UI 纯展示层，所有状态都来自会话事件流
-
-  ![dsh-tianshu-tui 终端 UI 截图](showcase/dsh-tianshu-tui.jpg)
-  *只看不碰：agent 该干嘛干嘛，界面负责好看*
-
-- 🪄 **[dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize)** ★34 —— DSH 不必只用文字回答：模型调用 `visualize`，交互式 HTML 卡片直接画进会话流，模拟器、图表、UI 原型都行
-
-  ![dsh-visualize 对话内交互式卡片演示](showcase/dsh-visualize.webp)
-  *dsh-ads 作者唯一一条正经广告*
-
-- 🧭 **[dsh-milestone](https://github.com/SnowCrescenter-tech/dsh-milestone)** ★12 —— 会话里程碑导航条：右侧点状时间线，像看 Git 提交图一样一眼定位每次提问，一键跳转任何位置
-
-- 🎯 **[dsh-focus-chat](https://github.com/dingyi222666/dsh-focus-chat)** ★7 —— 给 dsh 加一个「聚焦会话」视图：屏蔽过程噪音，只看最终产出
-
-  ![dsh-focus-chat 聚焦会话视图](showcase/dsh-focus-chat.png)
-  *左边是日常，右边是专注——只看结果的极简模式*
-
-- 🖱️ **[dsh-web-review](https://github.com/CanglongCl/dsh-web-review)** ★7 —— 像设计工具一样在内置浏览器里圈选元素、写批注、临时调视觉，确认后 Agent 照着批注直接改前端源码
-
-  ![dsh-web-review 网页元素批注演示](showcase/dsh-web-review.jpg)
-  *设计师式提需求：圈哪里改哪里*
-
-- 📝 **[dsh-sticky-note](https://github.com/Meredith2328/dsh-sticky-note)** ★0 —— 编辑框工具栏上的便签：随手记点子，自动保存为 Markdown，一键发送到对话
-
-  ![dsh-sticky-note 便签界面](showcase/dsh-sticky-note.png)
-  *灵感比会话跑得快，先记下来再说*
+  ![dsh-plugin-pet-rs Rust desktop pet and tray icon](showcase/dsh-plugin-pet-rs.png)
+  *5-state pixel whale + status bubbles. The author burned through their CI quota — build it yourself*
 
 ---
 
-## 📝 文字选手区
+## The Slack-Off Zone
 
-*这些项目 README 没放图，点进去自己看。*
+*Waiting for the model to reply is the hardest part. So someone did something about it.*
 
-- 🧰 **[DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)** ★169 `干活` —— 一个插件一套完整工作台：文件管理、编辑预览、内嵌浏览器、真实终端、Git 面板、后台任务全都有，还支持三方拓展注册新 Tab
-- 🏷️ **[ui-status-label](https://github.com/alingalingling/ui-status-label)** ★21 `换皮` —— 把你鲸鱼娘思考时的 deep diving 自定义成任意你想要的样子，一行设置搞定
-- 🎮 **[dsh-minigames](https://github.com/lhh010/dsh-minigames)** ★7 `摸鱼` —— 右侧小游戏面板，18 款离线游戏全 Canvas 手绘：恐龙跳一跳、俄罗斯方块、坦克大战（带 AI）、扫雷、2048、数独、吃豆人……等了 18 款游戏的人不该没有图
-- 🎨 **[deepseek-harness-themes](https://github.com/orxz/deepseek-harness-themes)** ★1 `换皮` —— 社区维护的主题合集：只动颜色和外观，不碰模型与 agent —— One harness. Multiple styles.
-- 🖌️ **[dsh-skin](https://github.com/KinGao294/dsh-skin)** ★1 `换皮` —— Codex 精神续作款皮肤切换器：7 套精选配色 + 自定义壁纸，设置里多两行就完事
-- 💰 **[dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter)** ★0 `干活` —— 作曲栏实时显示 DeepSeek 账户余额 + 本会话花费，每 6 小时自动拉官方价目表，峰谷调价也不慌
-- 🔦 **[dsh-spotlight](https://github.com/0xsline/dsh-spotlight)** ★0 `干活` —— 键盘优先的命令面板：斜杠命令、最近会话、界面操作、插件设置，一个面板全都有
-- 📦 **[dsh-web-archive](https://github.com/renat3u/dsh-web-archive)** ★0 `干活` —— Deep Sleeping... 把会话里 Think 推理和工具卡片全部收拢成同款小卡，世界瞬间清净
-- 🔔 **[dsh-web-attention-badge](https://github.com/Luaphes/dsh-web-attention-badge)** ★0 `干活` —— 会话需要你时三处同时亮：边框徽标、标签页标题计数、鲸鱼 favicon 变琥珀色
+- ♟️ **[dsh-gomoku](https://github.com/omdsh-dev/dsh-gomoku)** ★6 — Gomoku against the AI in DSH's sidebar: zero search algorithms, every move is pure LLM reasoning. Dual-AI mode lets you spectate two models trying to destroy each other
+
+  ![dsh-gomoku match interface](showcase/dsh-gomoku.png)
+  *Models and thinking budgets configurable per side; the board toggles in and out — slack off and stay productive, both at once*
+
+> The true slack-off holy grail **[dsh-minigames](https://github.com/lhh010/dsh-minigames)** ★7 (18 offline mini-games) landed in the No-Screenshot Club below — its README ships without a single image.
 
 ---
 
-## 🚀 收录方式
+## Actually Useful
 
-给 DSH 整了新活？**欢迎 PR 补充！** 皮肤、桌宠、小游戏、还是更抽象的东西都可以——附上仓库链接和一句话介绍，再带一张精选截图就更好了（没图的项目会先委屈在文字选手区）。
+*Memes aside, these genuinely get work done.*
 
-## ©️ 版权说明
+- 🏠 **[dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ★580 — The big collection of DSH Web UI plugins and skins: task board, Git graph, right panel, mobile remote control, whale-girl pet, live token stats, skin center. Install piecemeal or all at once
 
-本仓库所有图片均摘录自各开源项目的 README 与官方预览素材，**版权归原作者所有**。本仓库仅做导航汇总与宣传，不分发任何源码或素材。如侵犯了您的权益，请提 issue，我们会第一时间撤下。
+  ![dsh-web-ui main interface](showcase/dsh-web-ui.png)
+  *The task board runs on cron schedules; scan a QR code from your phone to take over the workspace*
+
+- ⌨️ **[dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui)** ★252 — No official TUI yet? The community built one first: a Claude Code-style fullscreen terminal with a pixel-whale header, live status line, streaming thought expansion, double-Esc time travel — featured by the official WeChat account
+
+  ![dsh-cc-tui Claude Code-style terminal interface](showcase/dsh-cc-tui.png)
+  *Blue-and-white context progress bar + TPS gauge; mounts as a pure plugin, zero core changes*
+
+- 🖥️ **[dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui)** ★78 — The other terminal UI option: rendering core evolved from Tianshu-Tui; the UI is a pure display layer — all state flows from session events
+
+  ![dsh-tianshu-tui terminal UI screenshot](showcase/dsh-tianshu-tui.jpg)
+  *Look, don't touch: the agent does its thing, the interface looks good doing nothing*
+
+- 🪄 **[dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize)** ★34 — DSH answers don't have to be text: the model calls `visualize` and interactive HTML cards render straight into the chat stream — simulators, charts, UI prototypes, all fair game
+
+  ![dsh-visualize in-chat interactive card demo](showcase/dsh-visualize.webp)
+  *The dsh-ads author's one legitimate advertisement*
+
+- 🧭 **[dsh-milestone](https://github.com/SnowCrescenter-tech/dsh-milestone)** ★12 — A milestone rail for your conversation: dotted timeline on the right, read it like a Git commit graph, jump to any question in one click
+
+- 🎯 **[dsh-focus-chat](https://github.com/dingyi222666/dsh-focus-chat)** ★7 — A "focus chat" view for dsh: silence the process noise, show only final outputs
+
+  ![dsh-focus-chat focus view](showcase/dsh-focus-chat.png)
+  *Everyday on the left, focused on the right — a minimal mode for results-only readers*
+
+- 🖱️ **[dsh-web-review](https://github.com/CanglongCl/dsh-web-review)** ★7 — Review web pages like a design tool: circle elements in the built-in browser, annotate, tweak visuals on the fly — then the Agent edits the frontend source to match your annotations
+
+  ![dsh-web-review element annotation demo](showcase/dsh-web-review.jpg)
+  *Give feedback like a designer: circle it, change it*
+
+- 📝 **[dsh-sticky-note](https://github.com/Meredith2328/dsh-sticky-note)** ★0 — Sticky notes on the composer toolbar: jot ideas as you go, auto-saved as Markdown, one click to send into the conversation
+
+  ![dsh-sticky-note notes interface](showcase/dsh-sticky-note.png)
+  *Inspiration runs faster than the session — write it down first*
 
 ---
 
-<p align="center"><b>收录 28 个项目 · 20 张精选截图</b><br><sub>整活浓度仍在上升中</sub></p>
+## The No-Screenshot Club
+
+*These projects ship READMEs without images. Click through and see for yourself.*
+
+- 🧰 **[DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)** ★169 `workhorse` — One plugin, one complete workbench: file manager, edit preview, embedded browser, real terminal, Git panel, background tasks — and third-party plugins can register new tabs
+- 🏷️ **[ui-status-label](https://github.com/alingalingling/ui-status-label)** ★21 `skin` — Customize your whale girl's "deep diving" thinking status to literally anything you want. One setting line
+- 🎮 **[dsh-minigames](https://github.com/lhh010/dsh-minigames)** ★7 `slack-off` — A mini-games panel on the right: 18 offline games, all hand-drawn on canvas — dino jump, Tetris, tank battle (with AI), Minesweeper, 2048, Sudoku, Pac-Man… the people who waited for 18 games deserved at least one screenshot
+- 🎨 **[deepseek-harness-themes](https://github.com/orxz/deepseek-harness-themes)** ★1 `skin` — Community-maintained theme collection: colors and looks only, never touching models or agents — One harness. Multiple styles.
+- 🖌️ **[dsh-skin](https://github.com/KinGao294/dsh-skin)** ★1 `skin` — The spiritual-successor-to-Codex skin switcher: 7 curated palettes + custom wallpaper. Two lines in settings, done
+- 💰 **[dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter)** ★0 `workhorse` — Live DeepSeek account balance + this session's spend in the composer dock; refreshes from the official price sheet every 6 hours, peak/off-peak changes included
+- 🔦 **[dsh-spotlight](https://github.com/0xsline/dsh-spotlight)** ★0 `workhorse` — A keyboard-first command palette: slash commands, recent sessions, UI actions, plugin settings — one panel for all of it
+- 📦 **[dsh-web-archive](https://github.com/renat3u/dsh-web-archive)** ★0 `workhorse` — Deep Sleeping... collapses all Think reasoning rows and tool cards into uniform little cards. Instant peace
+- 🔔 **[dsh-web-attention-badge](https://github.com/Luaphes/dsh-web-attention-badge)** ★0 `workhorse` — When a session needs you, three places light up at once: frame badge, tab-title counter, and the whale favicon turns amber
+
+---
+
+## How to Get Listed
+
+Built something new for DSH? **PRs welcome!** Skins, desktop pets, mini-games, or anything more abstract — attach the repo link and a one-line intro; bonus points for a hand-picked screenshot (projects without one wait in the No-Screenshot Club first).
+
+## Copyright
+
+All images in this repository are excerpted from the respective open-source projects' own READMEs and official preview materials; **copyright belongs to their original authors**. This repo is navigation and promotion only, and does not redistribute any source code or assets. If any inclusion infringes on your rights, open an issue and it will be removed promptly.
+
+---
+
+<p align="center"><b>28 projects listed · 20 hand-picked screenshots</b><br><sub>The meme density is still rising</sub></p>
