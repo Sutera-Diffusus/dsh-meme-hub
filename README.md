@@ -5,6 +5,13 @@
 English | [简体中文](README.zh-CN.md)
 
 <p align="center">
+  <a href="https://dsh-meme-hub.cdqyfdbymn.me/">
+    <b>🌐 Visit the website — dsh-meme-hub.cdqyfdbymn.me</b>
+  </a>
+  <br><sub>Browse plugins, memes &amp; one-click installs — full site below</sub>
+</p>
+
+<p align="center">
   <img src="showcase/hero-en.png" alt="Everything is a Plugin — so go tinker with anything." width="640">
 </p>
 
