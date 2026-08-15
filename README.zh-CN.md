@@ -89,6 +89,11 @@
   ![dsh-plugin-background 背景编辑器设置界面](showcase/dsh-plugin-background.png)
   *每张图独立配置透明度、模糊和轮播，切图还带交叉淡入*
 
+- 🎮 **[gal-view](https://github.com/Ayase34/gal-view)** ★14 —— 把会话界面一键切成 Galgame：16:9 舞台 + 鲸鱼娘女仆立绘 + 华丽对话框 + 打字机台词，还自带场景可视化编辑器，拖拽换图层实时同步回游戏模式
+
+  ![gal-view Galgame 风格对话视图截图](showcase/gal-view.jpg)
+  *DeepSeek 化身蓝发鲸鱼女仆，「所以主人要多对我说话才好」*
+
 ---
 
 ## 🐳 赛博宠物区
@@ -199,4 +204,4 @@
 
 ---
 
-<p align="center"><b>收录 28 个项目 · 20 张精选截图</b><br><sub>整活浓度仍在上升中</sub></p>
+<p align="center"><b>收录 29 个项目 · 21 张精选截图</b><br><sub>整活浓度仍在上升中</sub></p>

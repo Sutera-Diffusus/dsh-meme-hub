@@ -89,6 +89,11 @@ Prefer browsing over reading? All 28 picks live on one page with screenshots, ca
   ![dsh-plugin-background settings editor](showcase/dsh-plugin-background.png)
   *Per-image opacity, blur and rotation; crossfade transitions included*
 
+- 🎮 **[gal-view](https://github.com/Ayase34/gal-view)** ★14 — Turn the chat screen into a visual novel: 16:9 stage, whale-girl maid sprite, ornate dialogue box, typewriter lines — plus a drag-and-drop scene editor that syncs straight back into play mode
+
+  ![gal-view visual novel chat view](showcase/gal-view.jpg)
+  *DeepSeek as a blue-haired whale maid: "Please talk to me more, master"*
+
 ---
 
 ## Cyber Pets
@@ -199,4 +204,4 @@ All images in this repository are excerpted from the respective open-source proj
 
 ---
 
-<p align="center"><b>28 projects listed · 20 hand-picked screenshots</b><br><sub>The meme density is still rising</sub></p>
+<p align="center"><b>29 projects listed · 21 hand-picked screenshots</b><br><sub>The meme density is still rising</sub></p>
